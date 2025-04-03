@@ -3,19 +3,19 @@
     This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
 
 .NOTES
-    Author          : Trevino Parker
-    LinkedIn        : https://www.linkedin.com/in/trevinoparker
-    GitHub          : https://github.com/trevinoparker7
-    Date Created    : 2025-01-03
-    Last Modified   : 2025-01-03
+    Author          : Owen Kerrisk
+    LinkedIn        : https://www.linkedin.com/in/owen-kerrisk-b7743085/
+    GitHub          : https://github.com/owenkerrisk 
+    Date Created    : 2025-04-03
+    Last Modified   : 2025-04-03
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
     STIG-ID         : WN10-AU-000085
 
 .TESTED ON
-    Date(s) Tested  : 2025-01-03
-    Tested By       : Trevino Parker
+    Date(s) Tested  : 2025-04-03
+    Tested By       : Owen Kerrisk
     Systems Tested  : Windows 10
     PowerShell Ver. : powershell ise
 
